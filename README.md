@@ -37,5 +37,9 @@ Reverse engineering and threat hunting
 Example Workflow:
 
 Launch the tool.
+
+
 Wait For Results
+
+
 You Will Get 4 Folders On Your Home Screen
